@@ -1,0 +1,3 @@
+outputs/*
+!outputs/team_map/
+!outputs/team_map/index.html
